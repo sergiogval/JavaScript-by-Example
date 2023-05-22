@@ -10,7 +10,7 @@
   "dependencies": {
     "express": "^4.12.3",
     "lodash": "^4.17.4",
-    "lowdb": "^0.16.2",
+    "lowdb": "^0.17.2",
     "swagger-express-mw": "^0.1.0",
     "swagger-tools": "^0.10.1",
     "swagger-ui": "^3.1.1",
